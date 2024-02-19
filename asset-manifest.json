@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Addition-react/static/css/main.4e270ed3.css",
+    "main.js": "/Addition-react/static/js/main.5fc205eb.js",
+    "index.html": "/Addition-react/index.html",
+    "main.4e270ed3.css.map": "/Addition-react/static/css/main.4e270ed3.css.map",
+    "main.5fc205eb.js.map": "/Addition-react/static/js/main.5fc205eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e270ed3.css",
+    "static/js/main.5fc205eb.js"
+  ]
+}
